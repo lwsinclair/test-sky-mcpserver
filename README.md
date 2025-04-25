@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/chinnuvani-test-sky-mcpserver-badge.jpg)](https://mseep.ai/app/chinnuvani-test-sky-mcpserver)
+
 # MCP Server (Master Control Program)
 
 A centralized control server for managing and coordinating distributed agents and tasks.
